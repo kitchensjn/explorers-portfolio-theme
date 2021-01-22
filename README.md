@@ -19,7 +19,7 @@ In the top right corner of this repository, click the Fork button. This will cop
 
 ### Rename The Repo (Optional)
 
-Within Settings, you can rename the repository to whatever you would like. By default, the repository name will appear within your URL (ex. [username].github.io/Explorers-Portfolio-Theme). If you name the repository [username].github.io, you will be able to access it without the additional repository name.
+Within Settings, you can rename the repository to whatever you would like. By default, the repository name will appear within your URL (ex. [username].github.io/explorers-portfolio-theme). If you name the repository [username].github.io, you will be able to access it without the additional repository name.
 
 ### Set Up GitHub Pages
 
